@@ -1,2 +1,2 @@
-### HW7 ParticleHalo
+### ParticleHalo
 视频地址：
